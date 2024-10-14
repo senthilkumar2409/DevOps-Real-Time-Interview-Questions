@@ -2,6 +2,9 @@ CICD pipelines Quetions and Answers
 
 Jenkins  Realated:
 
+**Jenkins shared library:**
+   - A shared library in Jenkins is a reusable collection of Groovy scripts that can be used by multiple Jenkins pipeline. This allows you to share code and functionality between different pipelines, which can make your builds more efficient and easier to maintain.
+
 1. **How do you configure the job in Jenkins?**
    - **Answer:** To configure a job in Jenkins, you navigate to the Jenkins dashboard, click on "New Item," specify a name for the job, select the type of project (e.g., Freestyle project, Pipeline), configure the job settings such as source code management, build triggers, build steps, post-build actions, and save the configuration.
 
